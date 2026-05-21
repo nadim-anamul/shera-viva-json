@@ -1,0 +1,26 @@
+[
+  {
+    "id": "circ_01",
+    "title": "৪৪তম বিসিএস পরীক্ষার বিজ্ঞপ্তি",
+    "organization": "বাংলাদেশ সরকারি কর্ম কমিশন (BPSC)",
+    "publishDate": "২০২৬-০৫-২০",
+    "deadline": "২০২৬-০৬-৩০",
+    "vacancyCount": "১,৭১০ জন",
+    "pdfUrl": "https://raw.githubusercontent.com/nadim-anamul/shera-viva-json/master/circulars/44_bcs_circular.pdf",
+    "detailsUrl": "http://bpsc.gov.bd",
+    "category": "Government",
+    "isActive": true
+  },
+  {
+    "id": "circ_02",
+    "title": "সোনালী ব্যাংক পিএলসি অ্যাসিস্ট্যান্ট ডাটাবেস এডমিনিস্ট্রেটর নিয়োগ",
+    "organization": "ব্যাংকার্স সিলেকশন কমিটি (BSC)",
+    "publishDate": "২০২৬-০৫-১৮",
+    "deadline": "২০২৬-০৬-১৫",
+    "vacancyCount": "১২ জন",
+    "pdfUrl": "https://raw.githubusercontent.com/nadim-anamul/shera-viva-json/master/circulars/sonali_ada_circular.pdf",
+    "detailsUrl": "https://erecruitment.bb.org.bd",
+    "category": "Bank",
+    "isActive": true
+  }
+]
