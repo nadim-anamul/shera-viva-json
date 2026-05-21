@@ -27,18 +27,18 @@
     "yearFilterLabel": "বছর",
     "districtFilterLabel": "জেলা"
   }
-    {
+  {
     "id": "Bank",
     "title": "ব্যাংক ভাইভা লাইব্রেরি",
     "subtitle": "Bank Officer Viva Library",
-    "description": "সরকারি ও বেসরকারি ব্যাংকসমূহের সিনিয়র ও সহকারী অফিসার পদের সফল ভাইভা অভিজ্ঞতা এবং বাস্তব প্রশ্নোত্তর ডায়ালগ।",
-    "stats": "১২+ সফল অভিজ্ঞতা",
+    "description": "সরকারি ও বেসরকারি ব্যাংকসমূহের সিনিয়র অফিসার ও ক্যাশ অফিসার পদের সফল অভিজ্ঞতা ও বাস্তব প্রশ্নোত্তর ডায়ালগ।",
+    "stats": "৪+ সফল অভিজ্ঞতা",
     "icon": "account_balance_rounded",
     "gradientStart": "0xFF0269A1",
     "gradientEnd": "0xFF0F172A",
     "dataUrl": "https://raw.githubusercontent.com/nadim-anamul/shera-viva-json/master/bank_viva_library.json",
     "isActive": true,
     "yearFilterLabel": "বছর",
-    "choicesFilterLabel": "পদের পছন্দক্রম"
+    "choicesFilterLabel": "পদের ক্যাটাগরি"
   }
 ]
